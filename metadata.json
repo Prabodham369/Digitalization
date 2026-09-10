@@ -1,6 +1,8 @@
 {
-  "name": "Social Media Addiction - A Deep Dive",
+  "name": "Remix Social Media Addiction - A Deep Dive",
   "description": "An Apple-inspired cinematic interactive storytelling experience on social media addiction created for Hariprabodham Youth Assembly.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
